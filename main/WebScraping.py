@@ -6,7 +6,7 @@ class WebScraping():
 
     # VARIABLES FOR SYSTEM
     _URL_REQUEST:str = ''
-    _RESPONSE_FILE_NAME:str = 'src/response'
+    _RESPONSE_FILE_NAME:str = 'rsc/response'
 
     # FINALS VARIABLES FOR TEXT
     INFO_MSG = '[INFO] ==> '
